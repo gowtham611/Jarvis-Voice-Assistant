@@ -1,6 +1,6 @@
 music = {
-    "kendrick lamar": "https://www.youtube.com/watch?v=tvTRZJ-4EyI",
+    "kendrick lamar": "put your own link",
     "kanye west": "POWER",
-    "drake": "https://www.youtube.com/watch?v=ki0Ocze98U8",
+    "drake": "one dance",
     
 }
